@@ -1,5 +1,13 @@
 # mds_m1_Caillet_jean-Philippe_optimperf
 
+## Docker 
+
+ - installer docker
+
+ Pour lancer le projet il faut lancer `docker-compose up --build` 
+
+
+
 ## MongoDB Atlas
 - Créer un Projet
 - Construire un nouveau cluster
